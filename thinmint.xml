@@ -972,7 +972,7 @@
     </option>
     <option name="RUBY_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="80" />
+        <option name="FOREGROUND" value="ffff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
