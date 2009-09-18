@@ -193,7 +193,7 @@
     <option name="CSS.TAG_NAME">
       <value>
         <option name="FOREGROUND" value="669900" />
-        <option name="BACKGROUND" value="282525" />
+        <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -273,11 +273,11 @@
     <option name="DIFF_CONFLICT">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="3d0909" />
+        <option name="BACKGROUND" value="ff3333" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="ff3333" />
       </value>
     </option>
     <option name="DIFF_DELETED">
@@ -293,21 +293,21 @@
     <option name="DIFF_INSERTED">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="164716" />
+        <option name="BACKGROUND" value="ff00" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" value="8000" />
+        <option name="ERROR_STRIPE_COLOR" value="33ff00" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="1e1e45" />
+        <option name="BACKGROUND" value="66ff" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" value="3471ff" />
+        <option name="ERROR_STRIPE_COLOR" value="3399ff" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -1210,6 +1210,66 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="SASS_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="ccffff" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="66ffcc" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="ccffcc" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="66cc00" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_RULE">
+      <value>
+        <option name="FOREGROUND" value="cc66" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_STRING">
+      <value>
+        <option name="FOREGROUND" value="6699ff" />
+        <option name="BACKGROUND" value="333333" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="SCOPE_KEY_All">
       <value>
         <option name="FOREGROUND" />
@@ -1272,8 +1332,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="282525" />
+        <option name="FOREGROUND" value="9999" />
+        <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
