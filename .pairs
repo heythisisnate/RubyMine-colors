@@ -1,0 +1,7 @@
+# .pairs - configuration for 'git pair'
+# place in project or home directory
+pairs:
+  jb: Jonathan Barnes
+email:
+  prefix: dev
+  domain: codeword.net
