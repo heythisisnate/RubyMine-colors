@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="thinmint" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="3e83e7" />
@@ -283,7 +283,7 @@
     <option name="DIFF_CONFLICT">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="ff3333" />
+        <option name="BACKGROUND" value="cc0000" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -303,11 +303,11 @@
     <option name="DIFF_INSERTED">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="ff00" />
+        <option name="BACKGROUND" value="cc00" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" value="33ff00" />
+        <option name="ERROR_STRIPE_COLOR" value="cc00" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
