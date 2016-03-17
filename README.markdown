@@ -11,7 +11,7 @@ Installation
 Cloning this repository into your RubyMine preferences directory will allow you to get new colors as they are
 added by simply `git pull`
 
-    cd ~/Library/Preferences/RubyMine10
+    cd ~/Library/Preferences/RubyMine70
 
 if you have a 'colors' directory here already, rename or delete it
 
